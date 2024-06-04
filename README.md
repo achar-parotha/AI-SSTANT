@@ -1,4 +1,3 @@
-# AI-SSTANT
 ## Overview
 
 Local Multimodal AI Chat is a hands-on project aimed at learning how to build a multimodal chat application. This project is all about integrating different AI models to handle PDFs in a single chat interface. It's a great way for anyone interested in AI and software development to get practical experience with these technologies.
@@ -46,4 +45,3 @@ And the [quantized mistral model](https://huggingface.co/TheBloke/Mistral-7B-Ins
 - Authentication Mechanism.
 - Change Theme.
 - Separate Frontend and Backend Code for Better Deployment.
-
