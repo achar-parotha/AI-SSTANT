@@ -28,8 +28,7 @@ To get started with Local Multimodal AI Chat, clone the repository and follow th
    
    **Windows Users:** The installation might differ a bit for you, if you encounter errors you can't solve, please open an Issue here on github.
 
-3. **Setting Up Local Models**: Download the models you want to implement. [Here](https://huggingface.co/mys/ggml_llava-v1.5-7b/tree/main) is the llava model I used for image chat (ggml-model-q5_k.gguf and mmproj-model-f16.gguf). 
-And the [quantized mistral model](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF) form TheBloke.
+3. **Setting Up Local Models**: Download the models you want to implement pdf chat , i am using the mistral model [quantized mistral model](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF) form TheBloke.
 
 4. **Customize config file**: Check the config file and change accordingly to the models you downloaded.
 
